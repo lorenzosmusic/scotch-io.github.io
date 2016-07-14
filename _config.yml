@@ -1,5 +1,5 @@
 # Where things are
-source:      ./testing-123
+source:      .
 destination: ./_site
 plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
