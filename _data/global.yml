@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Scotch Jekyll Bootstrap'
-description: 'An Open-Source Bootstrap 3 Jekyll Theme by Scotch'
-url: 'http://scotch-io.github.io' # the base hostname & protocol for your site
+title: "Lorenzo's Music"
+description: "Website for the creative commons band Lorenzo's Music - The latest music, video, audio, photos and blog posts."
+url: 'http://lorenzosmusic.github.io/testing-123' # the base hostname & protocol for your site
 footer_text: 'This text is footer text. Footer text goes here.'
 
 # Admin Settings
-admin_name: 'Nicholas Cerminara'
-admin_email: 'nick@scotch.io'
+admin_name: "Lorenzo's Music"
+admin_email: 'info@lorenzosmusic.com'
 
