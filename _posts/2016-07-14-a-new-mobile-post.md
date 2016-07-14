@@ -6,4 +6,4 @@ wondering if making the `gh-pages` branch the default will allow me to post from
 
 ?
 
-<script data-element="9491"></script>
+<script src="https://cashmusic.org/public/cashmusic.js" data-element="9491">
