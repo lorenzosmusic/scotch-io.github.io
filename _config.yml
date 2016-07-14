@@ -1,5 +1,5 @@
 # Where things are
-source:      ./testing-123
+source:      .
 destination: ./_site
 plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
@@ -34,7 +34,7 @@ excerpt_separator: "\n\n"
 detach:  false
 port:    4000
 host:    127.0.0.1
-baseurl: "" # does not include hostname
+baseurl: "/testing-123" # does not include hostname
 
 # Outputting
 permalink:     /:categories/:title
