@@ -1,7 +1,7 @@
 # Site Settings
 title: "Lorenzo's Music"
 description: "Website for the creative commons band Lorenzo's Music - The latest music, video, audio, photos and blog posts."
-url: 'http://lorenzosmusic.github.io/testing-123' # the base hostname & protocol for your site
+url: 'https://lorenzosmusic.github.io/testing-123' # the base hostname & protocol for your site
 footer_text: 'CC-BY-SA (put cc link her later)'
 
 # Admin Settings
